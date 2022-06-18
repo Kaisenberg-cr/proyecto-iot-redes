@@ -13,6 +13,7 @@
         <meta http-equiv='X-UA-Compatible' content='IE=edge'>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
         <link href="css/style.css" rel="stylesheet" type="text/css" />
+        <link rel="shortcut icon" href="#" />
         <title>Proyecto IoT</title>
     </head>
     <body>
