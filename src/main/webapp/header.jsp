@@ -15,22 +15,22 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item active">
-                    <a class="nav-link" href="/Proyecto-IoT/index.jsp">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="/proyecto-iot-redes/index.jsp">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/Proyecto-IoT/variable1.jsp">Variable 1</a>
+                    <a class="nav-link" href="/proyecto-iot-redes/variable1.jsp">Variable 1</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/Proyecto-IoT/variable2.jsp">Variable 2</a>
+                    <a class="nav-link" href="/proyecto-iot-redes/variable2.jsp">Variable 2</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/Proyecto-IoT/variable3.jsp">Variable 3</a>
+                    <a class="nav-link" href="/proyecto-iot-redes/variable3.jsp">Variable 3</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/Proyecto-IoT/variable4.jsp">Variable 4</a>
+                    <a class="nav-link" href="/proyecto-iot-redes/variable4.jsp">Variable 4</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/Proyecto-IoT/variable5.jsp">Variable 5</a>
+                    <a class="nav-link" href="/proyecto-iot-redes/variable5.jsp">Variable 5</a>
                 </li>
             </ul>
         </div>
